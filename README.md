@@ -1,5 +1,5 @@
 # Lyrics_Generator
-##Lyrics and text generation using Markovs chains for text generation
+## Lyrics and text generation using Markovs chains for text generation
 ### Challege -> Apna Time Aaega!
 Apna Time Aayega - Lyrics Generation!
 Using  Markov Chains to create a Predictive Model for Text
